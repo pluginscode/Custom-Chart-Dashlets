@@ -12,7 +12,6 @@ Installation
 Steps to add a dashlets:
 
 Go to home-page and click on Add Dashlet button in the right. In this popup select the Charts tab, then click Custom Chart.
-AddDashlet
 
 The dashlet will be added to you home-page. Click the Edit icon  from right top corner.
 
